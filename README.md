@@ -2,7 +2,7 @@
 
 ![Screenshot](./static/screenshot.png)
 
-Provides a simple and small CI tool to easily delete multiple branches via bash.
+Provides a simple and small CLI tool to easily delete multiple branches via bash.
 
 
 ## License
